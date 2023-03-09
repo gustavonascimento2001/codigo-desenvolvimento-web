@@ -48,5 +48,22 @@ public class Main
 		
 		boolean resultado5 = valor1 * 5 > valor2 + 45 && ((70 * 2) - 6) <= valor1 * 4 || valor1 * 5 == 10;
 		System.out.println("Resultado5: " + resultado5);
+		
+		public class Main
+{
+	public static void main(String[] args) {
+	
+	double nota = 6; 
+	
+	if(nota>=7){
+	    System.out.println("APROVADO!!!");
+	    
+	   } else if(nota>=5 && nota <7)
+	   {System.out.println("RECUPERAÇÃO!!!");}
+	   else{System.out.println("REPROVADO!!!");}
+	   
+
+	}
+}
 	}
 }
